@@ -59,7 +59,21 @@ ul.nav-tabs > li > a {
 	visibility: visible;
 }
 
+footer {
+  background: #113537;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid black;
+  line-height: 200%;
+}
+
+footer h4 {
+  padding-left: 40px;
+  font-size: 15px;
+}
+
 p {
    font-weight: bold;
 }
-   
