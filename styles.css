@@ -60,10 +60,12 @@ ul.nav-tabs > li > a {
 }
 
 
+
 p {
    font-weight: bold;
 }
    
+
 
 footer {
   background: #113537;
@@ -79,4 +81,9 @@ footer h4 {
   padding-left: 40px;
   font-size: 15px;
 }
+
+p {
+   font-weight: bold;
+}
+
 
