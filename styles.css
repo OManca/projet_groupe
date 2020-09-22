@@ -59,6 +59,14 @@ ul.nav-tabs > li > a {
 	visibility: visible;
 }
 
+
+
+p {
+   font-weight: bold;
+}
+   
+
+
 footer {
   background: #113537;
   width: 100%;
